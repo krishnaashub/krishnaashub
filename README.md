@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @krishnaashub
-- 🌱 I’m currently learning java.
+- 🌱 I’m currently learning the basics of java.
 - 📫 How to reach me krishnaasingh208@gmail.com
 
 <!---
