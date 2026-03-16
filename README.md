@@ -12,4 +12,4 @@ Python • SQL • Power BI • Data Analysis • Data Visualization
 - Data analysis projects using Python
 
 ## Currently Learning
-Advanced Python for data analysis and dashboard development.
+Python,SQL and Power Bi for data analysis and dashboard development.
